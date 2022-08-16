@@ -1,11 +1,9 @@
 # N8 CIR Steering Group - Terms of Reference
 
 ## Background
-The N8 CIR Steering Group is the main mechanism for governing the HPC 
-Centre of Excellence and Bede. Reporting to it are both a Project Director Group, comprising the Director, the Deputy 
-Director, Technical Director, Programme Manager, Research Infrastructure Engineer Theme Lead and Research Software 
-Engineer Theme Lead, and a Project Working Group, comprising the technical representatives from each of the partner 
-institutions. 
+The N8 CIR Steering Group is the main mechanism for governing the HPC Centre of Excellence and Bede. Reporting to 
+it are the Project Directors Group (PDG), comprising the Directors of the N8 CIR, and a Project Working Group, 
+comprising technical representatives from each of the partner institutions.
 
 ## Terms of Reference
 The Steering Group provides oversight of the operation of the Centre of Excellence and the Bede facility, including 
