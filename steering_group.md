@@ -31,8 +31,8 @@ have voting privileges unless acting as deputy for a member.  There shall also b
 attendance.
 
 The membership and the Terms of Reference of the Steering Group will be reviewed annually.  Members of the community 
-may put themselves forward as the Steering Group member for their institution (if it is a partner) through a link on 
-the N8 CIR Governance website page but only their institution may appoint.
+may put themselves forward as the Steering Group member for their institution (if it is a partner) by emailing 
+enquiries@n8cir.org.uk, but only their institution may appoint.
 
 ## Responsibilities
 Each Steering Group member should:
