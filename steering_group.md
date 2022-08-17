@@ -37,9 +37,11 @@ Each Steering Group member should:
 - Consult members of their local community ahead of each meeting for feedback on proposals and/or ideas for new 
 activities.
 - Prepare for and attend each meeting, or appoint a deputy if unable to attend a particular meeting.
-- Maintain a good liaison with their PVC-R or equivalent and other university stakeholders in order to collect their 
-feedback or raise topics to N8 CIR.
+- Maintain a good liaison with their Pro Vice-Chancellor for Research or equivalent and other university stakeholders 
+in order to collect their feedback or raise topics to the N8 CIR.
 
-## Frequency of Meetings
-The Steering Group meetings should be held quarterly with interim meetings if required.  The meeting will be 
+## Meetings
+The Steering Group meetings should be held quarterly with interim meetings if required. The meeting will be 
 deemed quorate if five institutional representatives are present.
+
+Minutes will be taken during meetings and circulated among members after each meeting.
