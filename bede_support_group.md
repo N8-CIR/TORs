@@ -1,7 +1,7 @@
 # N8 CIR Bede Support Group - Terms of reference
 
 ## Definition 
-The Bede Support Group (BSG) is a subgroup of the N8 CIR PWG and is led by the RIE Theme Lead, RSE Theme Lead and the head of the on-site platforms group.
+The Bede Support Group (BSG) is a subgroup of the N8 CIR  [Project Working Group (PWG)](https://github.com/N8-CIR/TORs/blob/main/project_working_group.md) and is led by the RIE Theme Lead, RSE Theme Lead and the head of the on-site platforms group.
 The group supports Bede users in getting access and porting their codes to Bede, as well as other Bede-related queries.  
 
 [A general overview of Bede governance can be found on this website.](https://n8cir.org.uk/supporting-research/facilities/bede/governance/)
@@ -13,7 +13,7 @@ from across the N8 Research Partnership.
 The group is also supported by partners from IBM and OCF, ensuring Bede is utilised in the most effective way possible.
 
 ## Meeting frequency
-The BSG meets once per term, i.e., three times per year. Usually, the meeting is connected to the [Project Working Group](https://github.com/N8-CIR/TORs/blob/main/project_working_group.md) meeting
+The BSG meets once per term, i.e., three times per year. Usually, the meeting is connected to the termly PWG meeting.
 
 ## Communications
 The BSG communicate via a Slack channel and a mailing list. 
