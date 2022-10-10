@@ -26,4 +26,4 @@ Additionally, BSG members are present at the regular meetings of the [Bede User 
 ## Aims 
 The group works together to answer technical queries relating to Bede and support Bede users in all software-related queries 
 with respect to porting their code to Bede, running it there and using the features of the platform effectively and efficiently. 
-They also organise training sessions, write, maintain and extend documentation, and form taks forces to tackle issues brought up by the users. 
+They also organise training sessions, write, maintain and extend documentation, and form task forces to tackle issues brought up by the users. 
