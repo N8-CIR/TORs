@@ -20,17 +20,12 @@ Specific responsibilities of the group will include:
 - Reporting to the N8 Strategic Executive Group (SEG).
 
 ## Membership
-Each partner institution shall appoint one member of the Steering Group to act as its representative. Only members 
-of the Steering Group may vote.
+Each partner institution shall appoint one member of the Steering Group to act as its representative. Only members of the Steering Group may vote. 
 
-Each institution can also have an observer on the Steering Group who will act as deputy if the member for that 
-institution cannot attend. Each active CIR theme may have an observer on the Steering Group.  Observers will not 
-have voting privileges unless acting as deputy for a member.  There shall also be a non-voting project manager in 
-attendance.
+Each institution can also have an observer on the Steering Group who will act as deputy if the member for that institution cannot attend. Each active CIR theme may have an observer on the Steering Group. Observers will not have voting privileges unless acting as deputy for a member. There shall also be a non-voting project manager in attendance.
 
-The membership and the Terms of Reference of the Steering Group will be reviewed annually.  Members of the community 
-may put themselves forward as the Steering Group member for their institution (if it is a partner) by emailing 
-enquiries@n8cir.org.uk, but only their institution may appoint.
+The membership and the Terms of Reference of the Steering Group will be reviewed annually. Members of the community may put themselves forward as the Steering Group member for their institution (if it is a partner) by emailing enquiries@n8cir.org.uk, but only their institution may appoint.
+
 
 ## Responsibilities
 Each Steering Group member should:
